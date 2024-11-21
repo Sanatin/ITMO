@@ -1,0 +1,79 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<schedule>
+	<wednesday>
+		<even_week>
+			<lesson1>
+				<time_start>08:20</time_start>
+				<time_end>09:50</time_end>
+				<corpus>ул.Ломоносова, д.9, лит. М</corpus>
+				<room>1216/0 (усл)</room>
+				<subject>Программирование</subject>
+				<teacher>Гаврилов Антон Валерьевич</teacher>
+				<lesson_format>Очно - дистанционный </lesson_format>
+			</lesson1>
+
+		</even_week>
+		<odd_week>
+			<lesson1>
+				<time_start>08:20</time_start>
+				<time_end>09:50</time_end>
+				<corpus>ул.Ломоносова, д.9, лит. М</corpus>
+				<room>1216/0 (усл)</room>
+				<subject>Информатика</subject>
+				<teacher>Балакшин Павел Валерьевич</teacher>
+				<lesson_format>Очно - дистанционный </lesson_format>
+			</lesson1>
+			<lesson2>
+				<time_start>10:00</time_start>
+				<time_end>11:30</time_end>
+				<corpus>ул.Ломоносова, д.9, лит. М</corpus>
+				<room>1216/0 (усл)</room>
+				<subject>Основы профессиональной деятельности</subject>
+				<teacher>Клименков Сергей Викторович</teacher>
+				<lesson_format>Очно - дистанционный </lesson_format>
+			</lesson2>
+		</odd_week>
+	</wednesday>
+	<saturday>
+		<even_week>
+			<lesson1>
+				<time_start>08:20</time_start>
+				<time_end>09:50</time_end>
+				<corpus>Кронверкский пр., д.49, лит.А</corpus>
+				<room>1405</room>
+				<subject>Математический анализ (продвинутый уровень)</subject>
+				<teacher>Холодова Светлана Евгеньевна</teacher>
+				<lesson_format>Очно - дистанционный</lesson_format>
+			</lesson1>
+			<lesson2>
+				<time_start>10:00</time_start>
+				<time_end>11:30</time_end>
+				<corpus>Кронверкский пр., д.49, лит.А</corpus>
+				<room>1405</room>
+				<subject>Математический анализ (продвинутый уровень)</subject>
+				<teacher>Холодова Светлана Евгеньевна</teacher>
+				<lesson_format>Очно - дистанционный</lesson_format>
+			</lesson2>
+		</even_week>
+		<odd_week>
+			<lesson1>
+				<time_start>08:20</time_start>
+				<time_end>09:50</time_end>
+				<corpus>Кронверкский пр., д.49, лит.А</corpus>
+				<room>1405</room>
+				<subject>Математический анализ (продвинутый уровень)</subject>
+				<teacher>Холодова Светлана Евгеньевна</teacher>
+				<lesson_format>Очно - дистанционный</lesson_format>
+			</lesson1>
+			<lesson2>
+				<time_start>10:00</time_start>
+				<time_end>11:30</time_end>
+				<corpus>Кронверкский пр., д.49, лит.А</corpus>
+				<room>1405</room>
+				<subject>Математический анализ (продвинутый уровень)</subject>
+				<teacher>Холодова Светлана Евгеньевна</teacher>
+				<lesson_format>Очно - дистанционный</lesson_format>
+			</lesson2>
+		</odd_week>
+	</saturday>
+</schedule>
